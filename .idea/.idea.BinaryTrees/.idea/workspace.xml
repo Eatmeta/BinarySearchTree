@@ -4,7 +4,10 @@
     <projectFile>BinaryTrees.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9208ffe1-4eeb-4426-995d-89ebd6304cb2" name="Changes" comment="" />
+    <list default="true" id="9208ffe1-4eeb-4426-995d-89ebd6304cb2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BinaryTrees/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BinaryTrees/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,9 @@
         <option value="System.Core : System.Linq.SystemCore_EnumerableDebugView&lt;T&gt; : get_Items ()" />
       </set>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07c38ac6da8344888a1d0f7bfde87c6617ab18/46/215ea1d6/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
@@ -43,6 +49,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Dr4EnKMEMyItP7uhKYYtYUqNo5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,7 +63,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.BinaryTrees">
+  <component name="RunManager">
     <configuration name="BinaryTrees" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -101,7 +108,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
@@ -116,5 +135,9 @@
         <PinnedItemInfo parentTag="Type#BinaryTrees.BinaryTree`1" memberName="Right" />
       </pinned-members>
     </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
